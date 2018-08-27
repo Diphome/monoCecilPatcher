@@ -1,0 +1,10 @@
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\bin\Debug\MonoCecilPatcher.exe.config
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\bin\Debug\MonoCecilPatcher.exe
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\bin\Debug\MonoCecilPatcher.pdb
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.csprojResolveAssemblyReference.cache
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.Form1.resources
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.Properties.Resources.resources
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.csproj.GenerateResource.Cache
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.exe
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\obj\Debug\MonoCecilPatcher.pdb
+c:\users\edoua\documents\visual studio 2017\Projects\MonoCecilPatcher\MonoCecilPatcher\bin\Debug\Mono.Cecil.dll
